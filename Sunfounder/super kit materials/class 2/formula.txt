@@ -1,0 +1,5 @@
+Experiment with IC Timer 555 shows a simple pulse generator.
+For R117=R116 you can use:
+f=1/1.4 * C112 * R116 
+For detail signal pulse pause differentiation use: f= 1/(timpulse + tpause)= 1/( ti + tp )
+ti= 0.7 * C112 * R117 tp=0.7 * C112 * R116

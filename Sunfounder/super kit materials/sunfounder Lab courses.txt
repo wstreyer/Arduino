@@ -1,0 +1,13 @@
+class 1:2 Digit 7 Segment 0-99 Counting With microcontroller
+class 2:Generating pulses with the 555 Timer IC
+class 3:Change the speed of flashing by 555 Timer
+class 4:Beep game by 555 timer
+class 5:Blink with NE555
+class 6:L293D Motor Driver With Potentiometer
+Class 7:Drive Motor Using L293D / SN754410
+class 8:Simple angle meter using ADXL335 accelerometer 
+class 9:LCD1602 example
+class 10:H-Bridge With PWM and Reversal With a Potentiometer
+class 11:Blink LED With 2 Transistor
+class 12:Use the optocoupler to control a circuit isolated from your microcontroller
+
